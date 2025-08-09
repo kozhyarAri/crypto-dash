@@ -18,6 +18,17 @@ const AboutPage = () => {
         Crypto Dash is designed for both beginners and experienced traders,
         offering a user-friendly interface and powerful tools.
       </p>
+      <p>
+        Created by{" "}
+        <a
+          href="https://www.kozhyarari.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <strong>Kozhyar Ari</strong>{" "}
+        </a>
+        .
+      </p>
     </div>
   );
 };
